@@ -1,0 +1,10 @@
+email: you@example.com
+send_time: "07:00"
+interests:
+  - name: tech
+    tags:
+      - AI
+      - startups
+  - name: cars
+    tags:
+      - EVs
